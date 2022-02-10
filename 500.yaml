@@ -40,7 +40,7 @@ proxy-providers:
   Free:
     type: http
     path: ./free.yaml
-    url: https://api.10101.io/sub?target=clash&url= https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md&list=true
+    url: https://api.10101.io/sub?target=clash&url=https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md&list=true
     interval: 3600
     health-check:
         enable: false
